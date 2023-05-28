@@ -1,0 +1,1 @@
+This analysis is focused on the review and creation of visualizations on air safety data. The creation of these visualizations was a majority Tableau work. The overall goal of these visualizations was to provide evidence that air travel is safer now compared to previous decades. 
