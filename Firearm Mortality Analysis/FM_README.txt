@@ -1,0 +1,1 @@
+The goal of this analysis is to take a look at the data provided by the CDC to attempt to predict the trends of firearm related mortality in the US as a whole and in a few key states. The data for this analysis comes directly from the CDC and spans the years 2014-2021. The model chosen to evaluate the dataset was a combination of the ARIMA and GARCH models
